@@ -1,0 +1,56 @@
+==========  Warmup with MLE ... ==========
+Downloading spiece.model:   0%|          | 0.00/773k [00:00<?, ?B/s]Downloading spiece.model:   2%|▏         | 16.0k/773k [00:00<00:09, 79.8kB/s]Downloading spiece.model:   4%|▍         | 32.0k/773k [00:00<00:10, 75.6kB/s]Downloading spiece.model:   6%|▌         | 48.0k/773k [00:00<00:14, 52.0kB/s]Downloading spiece.model:   8%|▊         | 64.0k/773k [00:01<00:12, 58.9kB/s]Downloading spiece.model:  10%|█         | 80.0k/773k [00:01<00:15, 46.8kB/s]Downloading spiece.model:  12%|█▏        | 96.0k/773k [00:01<00:12, 53.8kB/s]Downloading spiece.model:  14%|█▍        | 112k/773k [00:02<00:13, 48.5kB/s] Downloading spiece.model:  17%|█▋        | 128k/773k [00:02<00:14, 44.6kB/s]Downloading spiece.model:  19%|█▊        | 144k/773k [00:02<00:12, 50.7kB/s]Downloading spiece.model:  21%|██        | 160k/773k [00:03<00:11, 54.3kB/s]Downloading spiece.model:  23%|██▎       | 176k/773k [00:03<00:12, 49.6kB/s]Downloading spiece.model:  25%|██▍       | 192k/773k [00:03<00:10, 55.0kB/s]Downloading spiece.model:  27%|██▋       | 208k/773k [00:03<00:10, 57.5kB/s]Downloading spiece.model:  29%|██▉       | 224k/773k [00:04<00:09, 62.2kB/s]Downloading spiece.model:  31%|███       | 240k/773k [00:04<00:10, 51.5kB/s]Downloading spiece.model:  35%|███▌      | 272k/773k [00:05<00:08, 62.9kB/s]Downloading spiece.model:  37%|███▋      | 288k/773k [00:05<00:09, 51.8kB/s]Downloading spiece.model:  41%|████▏     | 320k/773k [00:05<00:07, 61.5kB/s]Downloading spiece.model:  43%|████▎     | 336k/773k [00:06<00:07, 61.6kB/s]Downloading spiece.model:  46%|████▌     | 352k/773k [00:06<00:06, 62.5kB/s]Downloading spiece.model:  48%|████▊     | 368k/773k [00:06<00:07, 57.1kB/s]Downloading spiece.model:  50%|████▉     | 384k/773k [00:07<00:07, 50.0kB/s]Downloading spiece.model:  52%|█████▏    | 400k/773k [00:07<00:06, 55.3kB/s]Downloading spiece.model:  54%|█████▍    | 416k/773k [00:07<00:06, 56.8kB/s]Downloading spiece.model:  56%|█████▌    | 432k/773k [00:07<00:05, 61.4kB/s]Downloading spiece.model:  58%|█████▊    | 448k/773k [00:08<00:05, 62.4kB/s]Downloading spiece.model:  60%|██████    | 464k/773k [00:08<00:04, 65.3kB/s]Downloading spiece.model:  62%|██████▏   | 480k/773k [00:08<00:05, 55.7kB/s]Downloading spiece.model:  64%|██████▍   | 496k/773k [00:08<00:04, 60.7kB/s]Downloading spiece.model:  66%|██████▌   | 512k/773k [00:09<00:04, 63.8kB/s]Downloading spiece.model:  68%|██████▊   | 528k/773k [00:09<00:04, 59.4kB/s]Downloading spiece.model:  70%|███████   | 544k/773k [00:09<00:03, 68.5kB/s]Downloading spiece.model:  72%|███████▏  | 560k/773k [00:09<00:03, 65.2kB/s]Downloading spiece.model:  75%|███████▍  | 576k/773k [00:10<00:02, 67.3kB/s]Downloading spiece.model:  77%|███████▋  | 592k/773k [00:10<00:02, 70.0kB/s]Downloading spiece.model:  79%|███████▊  | 608k/773k [00:10<00:02, 71.9kB/s]Downloading spiece.model:  81%|████████  | 624k/773k [00:10<00:02, 72.5kB/s]Downloading spiece.model:  83%|████████▎ | 640k/773k [00:11<00:01, 72.6kB/s]Downloading spiece.model:  85%|████████▍ | 656k/773k [00:11<00:01, 73.9kB/s]Downloading spiece.model:  87%|████████▋ | 672k/773k [00:11<00:01, 74.7kB/s]Downloading spiece.model:  89%|████████▉ | 688k/773k [00:11<00:01, 74.3kB/s]Downloading spiece.model:  91%|█████████ | 704k/773k [00:11<00:00, 74.1kB/s]Downloading spiece.model:  93%|█████████▎| 720k/773k [00:12<00:00, 74.9kB/s]Downloading spiece.model:  95%|█████████▌| 736k/773k [00:12<00:00, 76.8kB/s]Downloading spiece.model:  97%|█████████▋| 752k/773k [00:12<00:00, 81.1kB/s]Downloading spiece.model: 100%|██████████| 773k/773k [00:12<00:00, 62.9kB/s]
+Downloading tokenizer.json:   0%|          | 0.00/1.32M [00:00<?, ?B/s]Downloading tokenizer.json:   1%|          | 12.0k/1.32M [00:00<00:24, 55.4kB/s]Downloading tokenizer.json:   4%|▍         | 60.0k/1.32M [00:00<00:08, 151kB/s] Downloading tokenizer.json:   9%|▉         | 128k/1.32M [00:00<00:06, 184kB/s] Downloading tokenizer.json:  22%|██▏       | 304k/1.32M [00:00<00:02, 480kB/s]Downloading tokenizer.json:  31%|███       | 416k/1.32M [00:01<00:01, 492kB/s]Downloading tokenizer.json:  40%|████      | 544k/1.32M [00:01<00:01, 523kB/s]Downloading tokenizer.json:  45%|████▍     | 605k/1.32M [00:01<00:01, 441kB/s]Downloading tokenizer.json:  48%|████▊     | 656k/1.32M [00:01<00:01, 450kB/s]Downloading tokenizer.json:  55%|█████▌    | 752k/1.32M [00:01<00:01, 539kB/s]Downloading tokenizer.json:  61%|██████▏   | 832k/1.32M [00:01<00:00, 589kB/s]Downloading tokenizer.json:  66%|██████▌   | 897k/1.32M [00:02<00:00, 582kB/s]Downloading tokenizer.json:  71%|███████   | 959k/1.32M [00:02<00:00, 458kB/s]Downloading tokenizer.json:  75%|███████▌  | 1.00M/1.32M [00:02<00:00, 494kB/s]Downloading tokenizer.json:  79%|███████▉  | 1.05M/1.32M [00:02<00:00, 485kB/s]Downloading tokenizer.json:  84%|████████▎ | 1.11M/1.32M [00:02<00:00, 330kB/s]Downloading tokenizer.json:  92%|█████████▏| 1.22M/1.32M [00:02<00:00, 464kB/s]Downloading tokenizer.json:  97%|█████████▋| 1.28M/1.32M [00:03<00:00, 402kB/s]Downloading tokenizer.json: 100%|██████████| 1.32M/1.32M [00:03<00:00, 442kB/s]/home/bingxing2/gpuuser356/.conda/envs/CoNT_py37/lib/python3.7/site-packages/transformers/models/t5/tokenization_t5_fast.py:166: FutureWarning: This tokenizer was incorrectly instantiated with a model max length of 512 which will be corrected in Transformers v5.
+For now, this behavior is kept to avoid breaking backwards compatibility when padding/encoding with `truncation is True`.
+- Be aware that you SHOULD NOT rely on t5-small automatically truncating your input to 512 when padding/encoding.
+- If you want to encode/pad to sequences longer than 512 you can either instantiate this tokenizer with `model_max_length` or pass `max_length` when encoding/padding.
+- To avoid this warning, please instantiate this tokenizer with `model_max_length` set to your preferred value.
+  FutureWarning,
+/home/bingxing2/gpuuser356/.conda/envs/CoNT_py37/lib/python3.7/site-packages/torch/cuda/__init__.py:104: UserWarning: 
+NVIDIA A100-PCIE-40GB with CUDA capability sm_80 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_70 sm_75.
+If you want to use the NVIDIA A100-PCIE-40GB GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  warnings.warn(incompatible_device_warn.format(device_name, capability, " ".join(arch_list), device_name))
+
+/home/bingxing2/gpuuser356/.conda/envs/CoNT_py37/lib/python3.7/site-packages/transformers/models/t5/tokenization_t5_fast.py:166: FutureWarning: This tokenizer was incorrectly instantiated with a model max length of 512 which will be corrected in Transformers v5.
+For now, this behavior is kept to avoid breaking backwards compatibility when padding/encoding with `truncation is True`.
+- Be aware that you SHOULD NOT rely on t5-small automatically truncating your input to 512 when padding/encoding.
+- If you want to encode/pad to sequences longer than 512 you can either instantiate this tokenizer with `model_max_length` or pass `max_length` when encoding/padding.
+- To avoid this warning, please instantiate this tokenizer with `model_max_length` set to your preferred value.
+  FutureWarning,
+/home/bingxing2/gpuuser356/.conda/envs/CoNT_py37/lib/python3.7/site-packages/torch/cuda/__init__.py:104: UserWarning: 
+NVIDIA A100-PCIE-40GB with CUDA capability sm_80 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_70 sm_75.
+If you want to use the NVIDIA A100-PCIE-40GB GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  warnings.warn(incompatible_device_warn.format(device_name, capability, " ".join(arch_list), device_name))
+初始化加载pretrained_weights/xsum/t5
+Traceback (most recent call last):
+  File "/home/bingxing2/gpuuser356/CoNT-main/train.py", line 131, in <module>
+    train_model(args)
+  File "/home/bingxing2/gpuuser356/CoNT-main/train.py", line 68, in train_model
+    torch_kwargs={'ddp_kwargs': {'find_unused_parameters': True}})
+  File "/home/bingxing2/gpuuser356/.conda/envs/CoNT_py37/lib/python3.7/site-packages/fastNLP/core/controllers/trainer.py", line 523, in __init__
+    self.driver.setup()
+  File "/home/bingxing2/gpuuser356/.conda/envs/CoNT_py37/lib/python3.7/site-packages/fastNLP/core/drivers/torch_driver/ddp.py", line 374, in setup
+    backend="nccl", rank=self.global_rank, world_size=self.world_size
+  File "/home/bingxing2/gpuuser356/.conda/envs/CoNT_py37/lib/python3.7/site-packages/torch/distributed/distributed_c10d.py", line 455, in init_process_group
+    barrier()
+  File "/home/bingxing2/gpuuser356/.conda/envs/CoNT_py37/lib/python3.7/site-packages/torch/distributed/distributed_c10d.py", line 1960, in barrier
+    work = _default_pg.barrier()
+RuntimeError: NCCL error in: /pytorch/torch/lib/c10d/ProcessGroupNCCL.cpp:31, unhandled cuda error, NCCL version 2.7.8
+Traceback (most recent call last):
+  File "train.py", line 131, in <module>
+    train_model(args)
+  File "train.py", line 68, in train_model
+    torch_kwargs={'ddp_kwargs': {'find_unused_parameters': True}})
+  File "/home/bingxing2/gpuuser356/.conda/envs/CoNT_py37/lib/python3.7/site-packages/fastNLP/core/controllers/trainer.py", line 523, in __init__
+    self.driver.setup()
+  File "/home/bingxing2/gpuuser356/.conda/envs/CoNT_py37/lib/python3.7/site-packages/fastNLP/core/drivers/torch_driver/ddp.py", line 374, in setup
+    backend="nccl", rank=self.global_rank, world_size=self.world_size
+  File "/home/bingxing2/gpuuser356/.conda/envs/CoNT_py37/lib/python3.7/site-packages/torch/distributed/distributed_c10d.py", line 455, in init_process_group
+    barrier()
+  File "/home/bingxing2/gpuuser356/.conda/envs/CoNT_py37/lib/python3.7/site-packages/torch/distributed/distributed_c10d.py", line 1960, in barrier
+    work = _default_pg.barrier()
+RuntimeError: NCCL error in: /pytorch/torch/lib/c10d/ProcessGroupNCCL.cpp:31, unhandled cuda error, NCCL version 2.7.8

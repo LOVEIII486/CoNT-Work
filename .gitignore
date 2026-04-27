@@ -1,0 +1,8 @@
+/#服务器/torch-1.7.1+cu110-cp37-cp37m-linux_x86_64.whl
+/#服务器/torchvision-0.8.2+cu110-cp37-cp37m-linux_x86_64.whl
+/#服务器/epoch-15_step-2600.pt
+/#服务器/epoch-25_step-2120.pt
+/CoNT-main/CoNT-main.7z
+/CoNT-main/results/
+/CoNT-main/pretrained_weights/
+/CoNT-main/pycocoevalcap/

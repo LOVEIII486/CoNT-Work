@@ -1,0 +1,21 @@
+========== Contrastive learning based training... ==========
+[17:08:00] INFO     The checkpoint will be saved in this folder   callback.py:20
+                    for this time: 2023-03-26-17_07_09_701107                   
+Traceback (most recent call last):
+  File "/home/bingxing2/gpuuser356/CoNT-main/train.py", line 131, in <module>
+    train_model(args)
+  File "/home/bingxing2/gpuuser356/CoNT-main/train.py", line 38, in train_model
+    data_bundle = get_data_bundle(args)
+  File "/home/bingxing2/gpuuser356/CoNT-main/model/dataloader.py", line 52, in get_data_bundle
+    tokenizer = AutoTokenizer.from_pretrained(tokenizer_name)
+  File "/home/bingxing2/gpuuser356/.conda/envs/CoNT_py37/lib/python3.7/site-packages/transformers/models/auto/tokenization_auto.py", line 534, in from_pretrained
+    tokenizer_config = get_tokenizer_config(pretrained_model_name_or_path, **kwargs)
+  File "/home/bingxing2/gpuuser356/.conda/envs/CoNT_py37/lib/python3.7/site-packages/transformers/models/auto/tokenization_auto.py", line 401, in get_tokenizer_config
+    local_files_only=local_files_only,
+  File "/home/bingxing2/gpuuser356/.conda/envs/CoNT_py37/lib/python3.7/site-packages/transformers/utils/hub.py", line 711, in get_file_from_repo
+    use_auth_token=use_auth_token,
+  File "/home/bingxing2/gpuuser356/.conda/envs/CoNT_py37/lib/python3.7/site-packages/transformers/utils/hub.py", line 292, in cached_path
+    local_files_only=local_files_only,
+  File "/home/bingxing2/gpuuser356/.conda/envs/CoNT_py37/lib/python3.7/site-packages/transformers/utils/hub.py", line 563, in get_from_cache
+    "Connection error, and we cannot find the requested files in the cached path."
+ValueError: Connection error, and we cannot find the requested files in the cached path. Please try again or make sure your Internet connection is on.

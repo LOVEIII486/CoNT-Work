@@ -1,0 +1,5 @@
+cd /home/bingxing2/home/scx6030/CoNT-main/CoNT-main
+
+dos2unix train.sh
+
+sbatch --gpus=1 ./train.sh
